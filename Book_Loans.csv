@@ -1,0 +1,44 @@
+StudentID,BookTitle,BorrowDate,ReturnDate,Department
+1003,Introduction to Algorithms,2023-09-01,2023-09-15,Computer Science
+1012,The Great Gatsby,2023-09-03,2023-09-17,English Literature
+1073,Programming Logical Controllers,2023-09-05,2023-09-19,Engineering
+1114,Modern Physics,2023-09-07,2023-09-21,Physics
+1005,Principles of Economics,2024-09-09,2024-09-23,Economics
+1006,Artificial Intelligence: A Modern Approach,2023-09-10,2023-09-24,Computer Science
+1207,To Kill a Mockingbird,2023-09-11,2023-09-25,English Literature
+1008,Organic Chemistry,2023-09-12,2023-09-26,Chemistry
+1009,1984,2023-09-13,2023-09-27,English Literature
+1010,The Catcher in the Rye,2023-09-14,2023-09-28,English Literature
+1011,Discrete Mathematics and Its Applications,2023-09-15,2023-10-29,Mathematics
+1512,Introduction to Quantum Mechanics,2023-09-16,2023-09-30,Physics
+1713,Programming Logical Controllers,2023-07-17,2023-12-01,Engineering
+1014,Deep Learning,2023-09-18,2023-10-02,Computer Science
+1015,Pride and Prejudice,2023-09-19,2023-10-03,English Literature
+1816,Inorganic Chemistry,2023-09-20,2023-10-04,Chemistry
+1916,Operating System Concepts,2023-09-21,2023-10-05,Computer Science
+1018,1984,2023-09-22,2023-10-16,English Literature
+1009,Machine Vision,2024-09-22,2024-10-07,Engineering
+1001,Programming Logical Controllers,2024-09-15,2024-09-29,Engineering
+1003,1984,2023-09-01,2023-09-15,English Literature
+1012,The Great Gatsby,2023-09-03,2023-09-17,English Literature
+1073,Linear Algebra and Its Applications,2023-09-05,2023-09-19,Mathematics
+1114,Modern Physics,2023-09-07,2023-09-21,Physics
+1005,Principles of Economics,2024-09-09,2024-09-23,Economics
+1006,Artificial Intelligence: A Modern Approach,2023-09-10,2023-10-24,Computer Science
+1207,1984,2023-09-11,2023-09-25,English Literature
+1008,Organic Chemistry,2023-09-12,2023-09-26,Chemistry
+1009,Database System Concepts,2023-09-13,2023-09-27,Computer Science
+1010,The Catcher in the Rye,2023-09-14,2023-09-28,English Literature
+1011,Discrete Mathematics and Its Applications,2023-09-15,2023-09-29,Mathematics
+1512,1984,2023-09-16,2023-09-30,English Literature
+1713,Macroeconomics,2023-09-17,2023-10-01,Economics
+1014,Deep Learning,2023-09-18,2023-10-02,Computer Science
+1015,Pride and Prejudice,2023-09-19,2023-10-03,English Literature
+1816,Inorganic Chemistry,2023-09-20,2023-11-04,Chemistry
+1916,Operating System Concepts,2023-09-21,2023-10-05,Computer Science
+1018,1984,2023-09-22,2023-10-06,English Literature
+1009,Machine Vision,2024-09-22,2024-10-07,Engineering
+1001,Programming Logical Controllers,2024-09-15,2024-09-29,Engineering
+1007,Machine Vision,2024-06-22,2024-10-07,Engineering
+1277,Programming Logical Controllers,2025-01-01,2025-04-22,Engineering
+1125,Machine Vision,2025-01-01,2025-05-27,Engineering
